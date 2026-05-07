@@ -11,6 +11,14 @@ This folder contains a VS Code color theme based on the shared palette used in:
 2. In VS Code, open the folder and run **Extensions: Install from VSIX...** after packaging, or use this folder as the basis for publishing.
 3. Select **McFuzzySquirrel Warm Hooks** from **Preferences: Color Theme**.
 
+## Package as VSIX
+
+1. Open a terminal in this `vs-code` directory.
+2. Run:
+   - `npx @vscode/vsce package`
+3. This generates a `.vsix` file (for example, `mcfuzzysquirrel-warm-hooks-0.0.1.vsix`).
+4. In VS Code, run **Extensions: Install from VSIX...** and select the generated file.
+
 ## Core palette
 
 - Background: `#1A120F`
