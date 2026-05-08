@@ -1,0 +1,24 @@
+{
+  "name": "McFuzzySquirrel Warm Hooks",
+  "background": "#1A120F",
+  "foreground": "#F7EEE8",
+  "cursorColor": "#FF9A45",
+  "selectionBackground": "#3A2720",
+  "black": "#1A120F",
+  "red": "#CF6223",
+  "green": "#B78A5B",
+  "yellow": "#FFC98D",
+  "blue": "#D4B9A6",
+  "purple": "#FF9A45",
+  "cyan": "#FFE8D1",
+  "white": "#F2E6DC",
+  "brightBlack": "#5B3C2D",
+  "brightRed": "#FF9A45",
+  "brightGreen": "#D9B48B",
+  "brightYellow": "#FFE0BC",
+  "brightBlue": "#F7EEE8",
+  "brightPurple": "#FFC98D",
+  "brightCyan": "#FFF2E7",
+  "brightWhite": "#FFF8F2"
+}
+
