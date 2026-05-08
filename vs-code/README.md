@@ -1,4 +1,4 @@
-# McFuzzySquirrel Warm Hooks (VS Code Theme)
+# John’s Warm and Fuzzy (VS Code Theme)
 
 This folder contains a VS Code color theme based on the shared palette used in:
 
@@ -9,7 +9,7 @@ This folder contains a VS Code color theme based on the shared palette used in:
 
 1. Copy this `vs-code` folder somewhere local.
 2. In VS Code, open the folder and run **Extensions: Install from VSIX...** after packaging, or use this folder as the basis for publishing.
-3. Select **McFuzzySquirrel Warm Hooks** from **Preferences: Color Theme**.
+3. Select **John’s Warm and Fuzzy** from **Preferences: Color Theme**.
 
 ## Package as VSIX
 

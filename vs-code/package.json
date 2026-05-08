@@ -1,9 +1,10 @@
 {
   "name": "mcfuzzysquirrel-warm-hooks",
-  "displayName": "McFuzzySquirrel Warm Hooks",
-  "description": "A warm, high-contrast dark VS Code theme inspired by hooked-on-hooks and mcfuzzysquirrel.github.io.",
+  "displayName": "John’s Warm and Fuzzy",
+  "description": "Inspired by and for John Reilly who liked my colour scheme on my blog and one of my dashboards - because he is awesome.",
   "version": "0.0.1",
   "publisher": "mcfuzzysquirrel",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "McFuzzySquirrel Warm Hooks",
+        "label": "John’s Warm and Fuzzy",
         "uiTheme": "vs-dark",
         "path": "./themes/mcfuzzysquirrel-warm-hooks-color-theme.json"
       }
