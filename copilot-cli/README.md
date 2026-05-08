@@ -28,7 +28,7 @@ This folder includes ready-to-use presets for:
 
    ```bash
    mkdir -p ~/.config/alacritty/themes
-   cp /home/runner/work/skins/skins/copilot-cli/alacritty/mcfuzzysquirrel-warm-hooks.toml ~/.config/alacritty/themes/
+   cp <repo-root>/copilot-cli/alacritty/mcfuzzysquirrel-warm-hooks.toml ~/.config/alacritty/themes/
    ```
 
 2. Import it from your `~/.config/alacritty/alacritty.toml`:
@@ -43,7 +43,7 @@ This folder includes ready-to-use presets for:
 
    ```bash
    mkdir -p ~/.config/wezterm/colors
-   cp /home/runner/work/skins/skins/copilot-cli/wezterm/mcfuzzysquirrel-warm-hooks.lua ~/.config/wezterm/colors/
+   cp <repo-root>/copilot-cli/wezterm/mcfuzzysquirrel-warm-hooks.lua ~/.config/wezterm/colors/
    ```
 
 2. Reference it from your `~/.wezterm.lua`:
@@ -62,7 +62,7 @@ This folder includes ready-to-use presets for:
 1. Open Windows Terminal settings JSON.
 2. Copy the JSON object from:
 
-   - `/home/runner/work/skins/skins/copilot-cli/windows-terminal/mcfuzzysquirrel-warm-hooks.json`
+   - `<repo-root>/copilot-cli/windows-terminal/mcfuzzysquirrel-warm-hooks.json`
 
 3. Paste it into the `schemes` array.
 4. Set your profile `colorScheme` to:
